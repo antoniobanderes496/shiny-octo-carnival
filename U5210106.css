@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    transition: .3s;
+}
+
+body {
+    background-color: gray;
+}
+
+h1, h2{
+    color: blue;
+}
+
+b {
+    color: yellow;
+}
+
+a {
+    color: red;
+}
+
